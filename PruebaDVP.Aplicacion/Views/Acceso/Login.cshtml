@@ -1,0 +1,68 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="~/css/login.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            <!-- Tabs Titles -->
+            <!-- Icon -->
+            <div class="fadeIn first">
+                <img src="~/img/userimg.png" id="icon" alt="User Icon" />
+            </div>
+
+            <!-- Login Form -->
+            <form>
+                <input type="text" id="txtNombreUsuario" name="NombreUsuario" value="" placeholder="Usuario">
+                <input type="password" id="txtPassword" name="Password" value="" placeholder="Contraseña">
+                <input type="button" onclick="Acceder()" value="Acceder">
+            </form>
+
+            <!-- Remind Passowrd -->
+            <div id="formFooter">
+                <a class="underlineHover" href="@Url.Action("Registro","Acceso")">Registrarse</a>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <script>function Acceder() {
+            var data = {
+
+                NombreUsuario: $("#txtNombreUsuario").val(),
+                Password: $("#txtPassword").val()
+            };
+            jQuery.ajax({
+                url: '../api/Autenticacion/Login',
+                type: "POST",
+                data: JSON.stringify(data),
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+
+                    window.location.href = '/Home/Index'
+                    //console.log(data);
+                },
+                error: function (error) {
+                    alert(error.responseText)
+                },
+                beforeSend: function () {
+
+                },
+            });
+        }</script>
+
+</body>
+</html>

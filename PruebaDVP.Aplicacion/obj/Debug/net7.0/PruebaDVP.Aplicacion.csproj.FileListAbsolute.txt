@@ -1,0 +1,237 @@
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/appsettings.Development.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/appsettings.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.staticwebassets.runtime.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.deps.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.runtimeconfig.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/AutoMapper.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Azure.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Azure.Identity.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Entities.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Core.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Entities.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.MvcApplicationPartsAssemblyInfo.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.RazorAssemblyInfo.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.RazorAssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.PruebaDVP.Aplicacion.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.build.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.build.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.development.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/bundle/PruebaDVP.Aplicacion.styles.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/projectbundle/PruebaDVP.Aplicacion.bundle.scp.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/refint/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.genruntimeconfig.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/ref/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/appsettings.Development.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/appsettings.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.staticwebassets.runtime.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.deps.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.runtimeconfig.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/AutoMapper.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Azure.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Azure.Identity.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Entities.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Core.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Entities.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.MvcApplicationPartsAssemblyInfo.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.RazorAssemblyInfo.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.RazorAssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.PruebaDVP.Aplicacion.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.build.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.build.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.development.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/bundle/PruebaDVP.Aplicacion.styles.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/projectbundle/PruebaDVP.Aplicacion.bundle.scp.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/refint/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.genruntimeconfig.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Aplicacion/obj/Debug/net7.0/ref/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/appsettings.Development.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/appsettings.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.staticwebassets.runtime.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.deps.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.runtimeconfig.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Aplicacion.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/AutoMapper.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Azure.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Azure.Identity.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Entities.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Core.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Entities.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/bin/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.MvcApplicationPartsAssemblyInfo.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.RazorAssemblyInfo.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.RazorAssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.PruebaDVP.Aplicacion.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.build.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PruebaDVP.Aplicacion.props
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.build.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/staticwebassets.development.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/bundle/PruebaDVP.Aplicacion.styles.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/scopedcss/projectbundle/PruebaDVP.Aplicacion.bundle.scp.css
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/refint/PruebaDVP.Aplicacion.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/PruebaDVP.Aplicacion.genruntimeconfig.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Aplicacion/obj/Debug/net7.0/ref/PruebaDVP.Aplicacion.dll

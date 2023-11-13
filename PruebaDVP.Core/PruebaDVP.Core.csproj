@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaDVP.Data\PruebaDVP.Data.csproj" />
+    <ProjectReference Include="..\PruebaDVP.Entities\PruebaDVP.Entities.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MapperDTOs\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Autenticacion\" />
+    <None Remove="Autenticacion\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MapperDTOs\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Autenticacion\" />
+    <Folder Include="Autenticacion\Interfaces\" />
+  </ItemGroup>
+</Project>

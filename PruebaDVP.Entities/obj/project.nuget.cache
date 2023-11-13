@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FO6OfOfCwill73OLHmyFEf7TKuYV9NlaFuS/w4dLkEq8vNa5IH8QdfDEKZidhknCH7r04FchzlO4FKUdGZYCpQ==",
+  "success": true,
+  "projectFilePath": "/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Entities/PruebaDVP.Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/juandavidolarteserna/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/juandavidolarteserna/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/juandavidolarteserna/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

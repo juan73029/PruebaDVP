@@ -1,0 +1,102 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>s
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="~/css/login.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            <div class="fadeIn first">
+                <img src="~/img/userimg.png" id="icon" alt="User Icon" />
+            </div>
+            <form>
+
+                <input value="" type="text" id="txtNombres" class="" name="Nombres" placeholder="Nombres">
+                <input value="" type="text" id="txtApellidos" class="" name="Apellidos" placeholder="Apellidos">
+                <input value="0" type="number" id="txtNumeroIdentificacion" class="" name="NumeroIdentificacion" placeholder="Numero Identificacion">
+                <input value="" type="text" id="txtEmail" class="" name="Email" placeholder="Email">
+                <select id="ddlTipoIdentificacion"></select>
+                <input value="" type="text" id="txtNombreUsuario" name="NombreUsuario" placeholder="Usuario">
+                <input value="" type="password" id="txtPassword" name="Password" placeholder="Contraseña">
+                <input type="button" onclick="Registrar()" value="Registrar">
+            </form>
+
+
+            <div id="formFooter">
+                <a class="underlineHover" href="@Url.Action("Login","Acceso")">Login</a>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <script>$(document).ready(function () {
+            jQuery.ajax({
+                url: '../api/TipoIdentificacion',
+                type: "GET",
+                data: null,
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    if (data != null) {
+                        $.each(data, function (i, item) {
+                            $("<option>").attr("id", item.identificador).text(item.nombre).appendTo("#ddlTipoIdentificacion")
+
+
+                        });
+                    }
+
+                },
+                error: function (error) {
+                    alert(error.responseText)
+                },
+                beforeSend: function () {
+
+                },
+            });
+
+        });
+
+        function Registrar() {
+
+            var data = {
+                Nombres: $("#txtNombres").val(),
+                Apellidos: $("#txtApellidos").val(),
+                NumeroIdentificacion: $("#txtNumeroIdentificacion").val(),
+                Email: $("#txtEmail").val(),
+                TipoIdentificacion: $("#ddlTipoIdentificacion").children(":selected").attr("id"),
+                NombreUsuario: $("#txtNombreUsuario").val(),
+                Pass: $("#txtPassword").val()
+            };
+            jQuery.ajax({
+                url: '../api/Autenticacion/Registro',
+                type: "POST",
+                data: JSON.stringify(data),
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    window.location.href = '/Acceso/Login'
+                    console.log(data);
+                },
+                error: function (error) {
+
+                    alert(error.responseText)
+                },
+                beforeSend: function () {
+
+                },
+            });
+        }</script>
+
+</body>
+</html>

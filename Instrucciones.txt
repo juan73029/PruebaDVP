@@ -1,0 +1,10 @@
+﻿Pasos para inicializar el proyecto
+
+1- Ejecutar query DVPQuery.sql en BD master en sql
+2- actualizar la cadena de coneccion a la base de datos  en el archivo appsettings.json
+3- Ejecutar el programa
+
+
+ a considerar
+
+- la BD que se crea se llama PruebaDoubleVPartners, por lo tanto no debe existir otra BD con este nombre,(no realice la eliminacion de la BD si existe porque la pueden necesitar).

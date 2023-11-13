@@ -1,0 +1,51 @@
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.deps.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.runtimeconfig.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/refint/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.genruntimeconfig.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/ref/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Entities.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Entities.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.deps.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.runtimeconfig.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Entities.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Entities.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/refint/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.genruntimeconfig.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/DVP/PruebaDVP copy/PruebaDVP.Data/obj/Debug/net7.0/ref/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.deps.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.runtimeconfig.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Entities.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/bin/Debug/net7.0/PruebaDVP.Entities.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/refint/PruebaDVP.Data.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/PruebaDVP.Data.genruntimeconfig.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/PruebaDVP/PruebaDVP.Data/obj/Debug/net7.0/ref/PruebaDVP.Data.dll
